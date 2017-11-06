@@ -1,0 +1,18 @@
+layout: 
+fname: 
+lname: 
+email:
+dline: 
+cline: 
+department: 
+company: 
+title: 
+extra: 
+picture: 
+vcard: 
+bio_url: 
+wpcf_profile_linkedin: 
+gender: 
+broker: 
+
+ignore: ".py"
