@@ -15,4 +15,14 @@ wpcf_profile_linkedin:
 gender: 
 broker: 
 
+include: ["_people"]
+permalink: "/:title.htm"
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
 ignore: ".py"
