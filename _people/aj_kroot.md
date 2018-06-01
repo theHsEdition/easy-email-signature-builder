@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: AJ Kroot
 fname: AJ
 lname: Kroot
+des: 
+sig_logo: 
+license: 
 email: aj.kroot@rcre.com
-dline: 317.663.6075
-cline: 
+direct_line: 317.663.6075
+cell_line: 
 department: Client Services
 company: RESOURCE Commercial Real Estate
 title: Research Analyst
-extra: 
-picture: http://mbp.local:5757/wp-content/uploads/2017/07/AJ-Kroot-Circle-Colorx600.jpg
+extra_link: 
+extra_content: 
 vcard: https://rcre.com/wp-content/uploads/2017/vCards/AJ-Kroot.vcf
-bio_url: 
-wpcf_profile_linkedin: 
-gender: M
-broker: n
 ---

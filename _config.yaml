@@ -1,19 +1,18 @@
-layout: 
-fname: 
-lname: 
+layout:
+fname:
+lname:
+des: 
+sig_logo: 
+license: 
 email:
-dline: 
-cline: 
-department: 
-company: 
-title: 
-extra: 
-picture: 
-vcard: 
-bio_url: 
-wpcf_profile_linkedin: 
-gender: 
-broker: 
+direct_line:
+cell_line: 
+department:
+company:
+title:
+extra_link: 
+extra_content: 
+vcard:
 
 include: ["_people"]
 permalink: "/:title.htm"

@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: Beth Miller
 fname: Beth
 lname: Miller
+des: 
+sig_logo: 
+license: 
 email: beth.miller@rcre.com
-dline: 317.663.6095
-cline: 
+direct_line: 317.663.6095
+cell_line: 
 department: Property Management
 company: RESOURCE Property Management
-title: 
-extra: 
-picture: 
+title: Accounting Coordinator
+extra_link: 
+extra_content: 
 vcard: https://rcre.com/wp-content/uploads/2017/vCards/Beth-Miller.vcf
-bio_url: 
-wpcf_profile_linkedin: 
-gender: F
-broker: n
 ---

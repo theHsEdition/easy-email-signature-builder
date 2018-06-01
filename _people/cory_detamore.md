@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: Cory Detamore
 fname: Cory
 lname: Detamore
+des: 
+sig_logo: 
+license: 
 email: cory.detamore@rcre.com
-dline: 219.808.4075
-cline: 
-department: The Wernke Team
+direct_line: 
+cell_line: 219.808.4075
+department: The Wernke Team,Investment Services
 company: RESOURCE Commercial Real Estate
 title: Associate
-extra: 
-picture: 
+extra_link: 
+extra_content: 
 vcard: https://rcre.com/wp-content/uploads/2017/vCards/Cory-Detamore.vcf
-bio_url: 
-wpcf_profile_linkedin: 
-gender: M
-broker: y
 ---

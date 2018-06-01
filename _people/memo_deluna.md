@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: Memo deLuna
 fname: Memo
 lname: deLuna
+des: 
+sig_logo: 
+license: 
 email: memo.deluna@rcre.com
-dline: 
-cline: 317.910.6192
+direct_line: 
+cell_line: 317.910.6192
 department: Property Management
 company: RESOURCE Property Management
 title: Maintenance Technician
-extra: 
-picture: http://mbp.local:5757/wp-content/uploads/2017/07/Memo-deLuna-Circle-Colorx600.jpg
+extra_link: 
+extra_content: 
 vcard: https://rcre.com/wp-content/uploads/2017/vCards/Memo-deLuna.vcf
-bio_url: 
-wpcf_profile_linkedin: 
-gender: M
-broker: n
 ---

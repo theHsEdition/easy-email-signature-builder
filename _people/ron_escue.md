@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: Ron Escue
 fname: Ron
 lname: Escue
+des: 
+sig_logo: 
+license: 
 email: ron.escue@rcre.com
-dline: 317.663.6099
-cline: 317.460.8393
-department: Asset Management
+direct_line: 317.663.6099
+cell_line: 317.460.8393
+department: Asset Management,Retail Services
 company: RESOURCE Property Management
 title: Senior Vice President
-extra: 
-picture: http://mbp.local:5757/wp-content/uploads/2017/07/Ron-Escue-Circle-Colorx600.jpg
+extra_link: 
+extra_content: 
 vcard: https://rcre.com/wp-content/uploads/2017/vCards/Ron-Escue.vcf
-bio_url: 
-wpcf_profile_linkedin: https://www.linkedin.com/in/ron-escue-10a7b48b/
-gender: M
-broker: y
 ---

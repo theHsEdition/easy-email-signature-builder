@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: Cynthia Whitaker
 fname: Cynthia
 lname: Whitaker
+des: 
+sig_logo: 
+license: 
 email: cynthia.whitaker@rcre.com
-dline: 317.633.6539
-cline: 317.590.6826
-department: 
+direct_line: 317.633.6539
+cell_line: 317.590.6826
+department: Operations
 company: RESOURCE Commercial Real Estate
 title: Accountant
-extra: 
-picture: http://mbp.local:5757/wp-content/uploads/2017/07/Cynthia-Whittaker-Circle-Colorx600.jpg
+extra_link: 
+extra_content: 
 vcard: 
-bio_url: 
-wpcf_profile_linkedin: 
-gender: F
-broker: n
 ---

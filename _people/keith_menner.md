@@ -1,18 +1,18 @@
 ---
-layout: summer-2017-template 
+layout: summer-2017-template
+﻿name: Keith Menner
 fname: Keith
 lname: Menner
+des: 
+sig_logo: https://rcre.com/wp-content/uploads/2017/11/resource_logo_mba.png
+license: 
 email: keith.menner@rcre.com
-dline: 317.663.6078
-cline: 317.508.2247
+direct_line: 317.663.6078
+cell_line: 317.508.2247
 department: Capital Advisors Group
 company: RESOURCE Commercial Real Estate
 title: Senior Vice President
-extra: 
-picture: http://mbp.local:5757/wp-content/uploads/2017/07/Keith-Menner-Circle-Colorx600.jpg
+extra_link: 
+extra_content: 
 vcard: https://rcre.com/wp-content/uploads/2017/vCards/Keith-Menner.vcf
-bio_url: 
-wpcf_profile_linkedin: https://www.linkedin.com/in/keith-menner-92b33221/
-gender: M
-broker: n
 ---
