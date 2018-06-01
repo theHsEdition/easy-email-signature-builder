@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: June Marut
+layout: summer-2017-template 
 fname: June
 lname: Marut
 des: 

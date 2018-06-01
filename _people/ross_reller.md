@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Ross Reller
+layout: summer-2017-template 
 fname: Ross
 lname: Reller
 des: 

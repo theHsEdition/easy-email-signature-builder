@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Melissa Blackwell
+layout: summer-2017-template 
 fname: Melissa
 lname: Blackwell
 des: 

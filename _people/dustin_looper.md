@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Dustin Looper
+layout: summer-2017-template 
 fname: Dustin
 lname: Looper
 des: 

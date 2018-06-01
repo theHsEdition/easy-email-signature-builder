@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Memo deLuna
+layout: summer-2017-template 
 fname: Memo
 lname: deLuna
 des: 

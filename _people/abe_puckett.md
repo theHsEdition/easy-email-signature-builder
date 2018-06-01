@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Abe Puckett
+layout: summer-2017-template 
 fname: Abe
 lname: Puckett
 des: 

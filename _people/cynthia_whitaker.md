@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Cynthia Whitaker
+layout: summer-2017-template 
 fname: Cynthia
 lname: Whitaker
 des: 

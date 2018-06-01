@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: David Ciechanowicz
+layout: summer-2017-template 
 fname: David
 lname: Ciechanowicz
 des: CPM SMA

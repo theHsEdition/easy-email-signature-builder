@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Phillip Cosmas
+layout: summer-2017-template 
 fname: Phillip
 lname: Cosmas
 des: 

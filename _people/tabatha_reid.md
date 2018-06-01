@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Tabatha Reid
+layout: summer-2017-template 
 fname: Tabatha
 lname: Reid
 des: 

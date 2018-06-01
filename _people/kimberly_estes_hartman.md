@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Kimberly Estes Hartman
+layout: summer-2017-template 
 fname: Kimberly
 lname: Estes Hartman
 des: CPM

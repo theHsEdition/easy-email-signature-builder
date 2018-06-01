@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: AJ Kroot
+layout: summer-2017-template 
 fname: AJ
 lname: Kroot
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Lex Judge
+layout: summer-2017-template 
 fname: Lex
 lname: Judge
 des: 

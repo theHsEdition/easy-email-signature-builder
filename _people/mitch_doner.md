@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Mitch Doner
+layout: summer-2017-template 
 fname: Mitch
 lname: Doner
 des: 

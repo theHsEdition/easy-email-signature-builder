@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Nick Miller
+layout: summer-2017-template 
 fname: Nick
 lname: Miller
 des: 

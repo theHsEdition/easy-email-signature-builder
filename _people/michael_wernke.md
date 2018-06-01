@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Michael Wernke
+layout: summer-2017-template 
 fname: Michael
 lname: Wernke
 des: 

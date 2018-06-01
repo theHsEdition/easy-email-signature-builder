@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Michael Drew
+layout: summer-2017-template 
 fname: Michael
 lname: Drew
 des: CCIM

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Cooper Laikin
+layout: summer-2017-template 
 fname: Cooper
 lname: Laikin
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Patrick Hanus
+layout: summer-2017-template 
 fname: Patrick
 lname: Hanus
 des: 

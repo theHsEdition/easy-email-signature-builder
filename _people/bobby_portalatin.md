@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Bobby Portalatin
+layout: summer-2017-template 
 fname: Bobby
 lname: Portalatin
 des: 

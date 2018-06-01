@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Ron Escue
+layout: summer-2017-template 
 fname: Ron
 lname: Escue
 des: 

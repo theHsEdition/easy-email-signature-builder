@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Tom Nickols
+layout: summer-2017-template 
 fname: Tom
 lname: Nickols
 des: 

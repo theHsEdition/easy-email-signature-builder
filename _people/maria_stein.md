@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Maria Stein
+layout: summer-2017-template 
 fname: Maria
 lname: Stein
 des: 

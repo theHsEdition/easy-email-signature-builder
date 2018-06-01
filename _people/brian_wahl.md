@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Brian Wahl
+layout: summer-2017-template 
 fname: Brian
 lname: Wahl
 des: 

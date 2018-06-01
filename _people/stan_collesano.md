@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Stan Collesano
+layout: summer-2017-template 
 fname: Stan
 lname: Collesano
 des: JD

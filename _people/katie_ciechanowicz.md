@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Katie Ciechanowicz
+layout: summer-2017-template 
 fname: Katie
 lname: Ciechanowicz
 des: 

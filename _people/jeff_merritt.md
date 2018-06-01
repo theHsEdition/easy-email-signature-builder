@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Jeff Merritt
+layout: summer-2017-template 
 fname: Jeff
 lname: Merritt
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Nathan Smith
+layout: summer-2017-template 
 fname: Nathan
 lname: Smith
 des: 

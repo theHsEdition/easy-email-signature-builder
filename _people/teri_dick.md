@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Teri Dick
+layout: summer-2017-template 
 fname: Teri
 lname: Dick
 des: 

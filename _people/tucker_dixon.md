@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Tucker Dixon
+layout: summer-2017-template 
 fname: Tucker
 lname: Dixon
 des: 

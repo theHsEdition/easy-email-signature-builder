@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Paul Dick
+layout: summer-2017-template 
 fname: Paul
 lname: Dick
 des: CCIM

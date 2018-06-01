@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Kevin Dick
+layout: summer-2017-template 
 fname: Kevin
 lname: Dick
 des: 

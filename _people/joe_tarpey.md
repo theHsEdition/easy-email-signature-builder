@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Joe Tarpey
+layout: summer-2017-template 
 fname: Joe
 lname: Tarpey
 des: 

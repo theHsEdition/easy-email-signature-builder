@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Beth Patterson
+layout: summer-2017-template 
 fname: Beth
 lname: Patterson
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Greg Smith
+layout: summer-2017-template 
 fname: Greg
 lname: Smith
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Cory Detamore
+layout: summer-2017-template 
 fname: Cory
 lname: Detamore
 des: 

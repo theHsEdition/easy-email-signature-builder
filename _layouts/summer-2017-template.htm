@@ -13,10 +13,10 @@
         <!-- Direct Line -->
             <tr>
                <td style="padding: 0px; text-align:left; vertical-align: top; color: #43505d; font-size: 14px; font-family: Arial, Helvetica, sans-serif;" valign="top">
-                	{% if page.dline != null %}
-                    <strong>Direct:</strong><a href="tel:{{ page.dline }}" style="color: #43505d; text-decoration: none; font-weight: normal; font-size: 14px;"> {{ page.dline }}</a>&nbsp;&nbsp;
+                	{% if page.direct_line != null %}
+                    <strong>Direct:</strong><a href="tel:{{ page.direct_line }}" style="color: #43505d; text-decoration: none; font-weight: normal; font-size: 14px;"> {{ page.direct_line }}</a>&nbsp;&nbsp;
                   {% endif %}
-                   {% if page.cline != null %}<strong>Cell:</strong><a href="tel:{{ page.cline }}" style="color: #43505d; text-decoration: none; font-weight: normal; font-size: 14px;"> {{ page.cline }}</a>
+                   {% if page.cell_line != null %}<strong>Cell:</strong><a href="tel:{{ page.cell_line }}" style="color: #43505d; text-decoration: none; font-weight: normal; font-size: 14px;"> {{ page.cell_line }}</a>
                   {% endif %}
                </td>
             </tr>

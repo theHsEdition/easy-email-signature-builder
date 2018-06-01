@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Keith Menner
+layout: summer-2017-template 
 fname: Keith
 lname: Menner
 des: 

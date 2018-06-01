@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Kara Riggle
+layout: summer-2017-template 
 fname: Kara
 lname: Riggle
 des: 

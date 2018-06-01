@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Julie Tolliver
+layout: summer-2017-template 
 fname: Julie
 lname: Tolliver
 des: 

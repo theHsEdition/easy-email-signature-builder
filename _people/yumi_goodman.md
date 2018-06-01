@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Yumi Goodman
+layout: summer-2017-template 
 fname: Yumi
 lname: Goodman
 des: 

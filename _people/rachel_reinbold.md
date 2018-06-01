@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Rachel Reinbold
+layout: summer-2017-template 
 fname: Rachel
 lname: Reinbold
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Joshua Abrams
+layout: summer-2017-template 
 fname: Joshua
 lname: Abrams
 des: 

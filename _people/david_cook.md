@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: David Cook
+layout: summer-2017-template 
 fname: David
 lname: Cook
 des: 

@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Tom Osborne
+layout: summer-2017-template 
 fname: Tom
 lname: Osborne
 des: SIOR

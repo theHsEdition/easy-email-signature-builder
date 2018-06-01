@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Tisha Smith
+layout: summer-2017-template 
 fname: Tisha
 lname: Smith
 des: 

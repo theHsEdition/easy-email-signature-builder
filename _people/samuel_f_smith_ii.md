@@ -1,6 +1,5 @@
 ---
-layout: summer-2017-template
-﻿name: Samuel F Smith II
+layout: summer-2017-template 
 fname: Samuel
 lname: F Smith II
 des: CCIM SIOR SLCR MCR.w
