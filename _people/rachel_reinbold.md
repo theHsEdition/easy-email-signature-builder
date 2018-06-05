@@ -13,5 +13,5 @@ company: RESOURCE Commercial Real Estate
 title: Administrative Assistant
 extra_link: 
 extra_content: 
-vcard: 
+vcard: https://rcre.com/wp-content/uploads/2018/06/Rachel-Reinbold.vcf
 ---
